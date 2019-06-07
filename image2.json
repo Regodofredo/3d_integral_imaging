@@ -1,0 +1,13 @@
+{
+  "eiPath": "C:/Users/Victor Nielfa/Documents/Victor/tfg/ie_luz_mal",
+  "reconstructParams": {
+    "eiXShift": 5,
+    "eiYShift": 5,
+    "eiFocal": 18,
+    "sensor_xSize": 22.2,
+    "sensor_ySize": 14.8,
+    "nX": 11,
+    "nY": 5,
+    "z0": 40
+  }
+}

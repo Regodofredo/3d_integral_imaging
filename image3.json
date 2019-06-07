@@ -1,0 +1,13 @@
+{
+  "eiPath": "C:/Users/Victor Nielfa/Documents/Victor/tfg/Waka-Waka-Mole-Mole-!/Waka-Waka-Mole-Mole-!",
+  "reconstructParams": {
+    "eiXShift": 5,
+    "eiYShift": 5,
+    "eiFocal": 18,
+    "sensor_xSize": 23.5,
+    "sensor_ySize": 15.6,
+    "nX": 11,
+    "nY": 5,
+    "z0": 100
+  }
+}

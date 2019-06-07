@@ -1,0 +1,13 @@
+{
+  "eiPath": "C:/Users/Victor Nielfa/Documents/Victor/tfg/Fotos_Victor_22_5_2019/Fotos_Victor_22_5_2019",
+  "reconstructParams": {
+    "eiXShift": 10,
+    "eiYShift": 7.5,
+    "eiFocal": 18,
+    "sensor_xSize": 22.2,
+    "sensor_ySize": 14.8,
+    "nX": 5,
+    "nY": 4,
+    "z0": 1200
+  }
+}
